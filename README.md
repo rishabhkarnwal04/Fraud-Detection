@@ -36,7 +36,7 @@ fraud-detection-system/
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/rishabhkarnwal04/Fraud-Detection
-cd fraud-detection-system
+cd fraud-detection
 ```
 
 ### 2. Create a Virtual Environment
