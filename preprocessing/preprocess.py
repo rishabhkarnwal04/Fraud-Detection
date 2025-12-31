@@ -3,7 +3,7 @@ from sklearn.preprocessing import StandardScaler
 
 def preprocess(df):
     # Separate features and target
-    X = df.drop(['transaction_id','is_fraud'], axis=1)
+    X = df.drop(['transaction_id', 'is_fraud'], axis=1)
     y = df['is_fraud']
 
     # Scale features
