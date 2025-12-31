@@ -35,7 +35,7 @@ fraud-detection-system/
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/rishabhkarnwal04/Fraud-Detection
 cd fraud-detection-system
 ```
 
